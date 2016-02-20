@@ -1,2 +1,1 @@
-# WWW
-WELCOME
+# WELCOME
