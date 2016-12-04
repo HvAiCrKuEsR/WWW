@@ -1,0 +1,125 @@
+{"playlist":
+    [
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"https://drive.google.com/uc?id=0B9wnwIPYemQtQ2pjMWtnWFZ6UFE&authuser=0&export=download", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy One",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"data/01.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Two",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	},
+	{
+	    "0": {"src":"junk/paniq.mp3", "type":"audio/mp3"},
+	    "1": {"src":"", "type":"audio/ogg"},
+	    "config": {
+		"title": "An Educated Simpleton - Copy Four",
+		"poster": "http://www.pulsradio.com/player/logo-pulsradio.png"
+	    }
+	}
+
+    ]
+}
